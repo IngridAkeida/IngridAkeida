@@ -1,6 +1,3 @@
-
-
-
 ### Hi there 👋 My name is Ingrid Sanches. Welcome to my page!
 
 **A little about my history:**
@@ -18,9 +15,9 @@ Today in career transition because despite having a great experience in business
 - 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.
 - ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:.
 
-**How to reach me:**
+<!--**How to reach me:**
 
-<!--[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ingrid-sanches/)&nbsp;
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/ingrid-sanches/)&nbsp;
 My Portfolio []
 My Blog []
 My E-mail []
