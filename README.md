@@ -9,11 +9,13 @@ I have a degree in Administration. In my professional journey, I was able to hav
 Today in career transition because despite having a great experience in business I found myself in the Tech :star: world.
 
 **A little list about myself:**
-
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning React and TypeScript.
-- 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.
-- ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:.
+- 🌱 I’m currently learning React and TypeScript. 
+- 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.  
+- ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:. 
+
+![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
+![Alt cat1](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
 
 **How to reach me:**
 
@@ -29,9 +31,4 @@ My E-mail []
 ](https://github.com/anuraghazra/github-readme-stats)-->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-
-      
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
