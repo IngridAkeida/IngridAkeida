@@ -14,8 +14,7 @@ Today in career transition because despite having a great experience in business
 - 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.  
 - ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:. 
 
-![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
-![Alt cat1](https://media.giphy.com/media/wwg1suUiTbCY8H8vIA/giphy.gif)
+![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
 
 **How to reach me:**
 
