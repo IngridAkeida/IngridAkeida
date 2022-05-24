@@ -11,7 +11,7 @@ Today in career transition because despite having a great experience in business
 **A little list about myself:**
 
 - 🔭 I’m currently working as a freelancer.
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React and TypeScript.
 - 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.
 - ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:.
 
