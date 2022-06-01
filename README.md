@@ -24,7 +24,17 @@ My Blog []
 My E-mail []
 [I'm an inline-style link](https://www.google.com)-->
 
-
+<!--bash ![Legenda](url da img)
+bootstrap
+css3 
+git 
+graphql 
+html5 
+javascript 
+linux 
+nodejs 
+react 
+typescript-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
