@@ -3,7 +3,7 @@
 
 **A little about my history:**
 
-I have a degree in Administration. In my professional journey, I was able to have several experiences in the administrative area. 
+I have a degree in business. In my professional journey, I was able to have several experiences in the administrative area. 
 
 **currently:**
 
@@ -66,8 +66,8 @@ My E-mail []
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
 ](https://github.com/anuraghazra/github-readme-stats)-->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 ![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
