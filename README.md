@@ -90,4 +90,6 @@ My E-mail []
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)
+<!--![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)-->
+![Alt cat1](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
+
