@@ -84,9 +84,9 @@ My E-mail []
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
-](https://github.com/anuraghazra/github-readme-stats)-->
+](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
