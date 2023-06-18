@@ -5,7 +5,7 @@
 
 I have a degree in business. In my professional journey, I was able to have several experiences in the administrative area. 
 
-**currently:**
+**Currently:**
 
 Today in career transition because despite having a great experience in business I found myself in the Tech :star: world.
 
