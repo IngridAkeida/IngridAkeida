@@ -88,7 +88,9 @@ My E-mail []
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridAkeida&repo=UrnaEletronica-ballotBox&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)-->
 ![Alt cat1](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
