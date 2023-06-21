@@ -1,5 +1,7 @@
+
+
 ### Hi there 👋 My name is Ingrid Sanches. Welcome to my page!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingridakeida&label=Profile%20views&color=0e75b6&style=flat" alt="ingridakeida" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ingridakeida&label=Profile%20views&color=301934&style=plastic" alt="ingridakeida" /> </p>
 
 **A little about my history:**
 
@@ -24,19 +26,26 @@ My E-mail []
 [I'm an inline-style link](https://www.google.com)-->
 
 **Languages and Tools:**
+</br>
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=donut&theme=radical&show=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</br>
+
 <p align="left"> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> 
+  </a> 
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="70" height="70"/> 
   </a> 
   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="60" height="60"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
   </a> 
-  
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-  </a> 
-  
+  </br>
+  </br>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/> 
   </a>
@@ -80,7 +89,6 @@ My E-mail []
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> 
   </a>
-
 </p>
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&show_icons=true&theme=tokyonight)
@@ -89,9 +97,13 @@ My E-mail []
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IngridAkeida&theme=radical&hide_border=true)](https://git.io/streak-stats)-->
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IngridAkeida&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridAkeida&repo=UrnaEletronica-ballotBox&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridAkeida&repo=UrnaEletronica-ballotBox&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridAkeida&repo=UrnaEletronica-ballotBox&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IngridAkeida&repo=UrnaEletronica-ballotBox&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 <!--![Alt cat1](https://media.giphy.com/media/FcqKy4Kj7XOK0hCW4g/giphy.gif)-->
 ![Alt cat1](https://media.giphy.com/media/xUPGcEliCc7bETyfO8/giphy.gif)
-
