@@ -12,9 +12,10 @@ I have a degree in business. In my professional journey, I was able to have seve
 Today in career transition because despite having a great experience in business I found myself in the Tech :star: world.
 
 **A little list about myself:**
-- 🔭 I’m currently working as a freelancer.
+- 📘 I'm a student at Hyper Island. 
+- 🔭 I’m working as a freelance.
 - 🌱 I’m currently learning React and TypeScript. 
-- 👯 I'm looking to collaborate on any project, as my main goal is to always learn :heartbeat:.  
+- 👯 I'm looking to collaborate on any project, as my main goal is always to learn :heartbeat:.  
 - ⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both :wink:. 
 
 **How to reach me:**
