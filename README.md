@@ -72,9 +72,8 @@
 Even though my background is in administration, I've found my passion as a Front-End Developer. I love working on visually appealing websites and meeting tight deadlines. I'm known for my attention to detail and organization skills. As a team player, I'm dedicated to making projects successful. With expertise in HTML, CSS, and JavaScript, I'm ready to create outstanding digital experiences 
 
 **Currently:**
-
-📘 I'm a student at Hyper Island.
 <!--🔭 I’m working as a freelance.<br>-->
+📘 I'm a student at Hyper Island. <br>
 🌱 I’m currently learning React and TypeScript.<br>👯 I'm looking to collaborate on any project, as my main goal is always to learn 💓.<br>⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both 😉.
 
 ## 🌐 Socials:
