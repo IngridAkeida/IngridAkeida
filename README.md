@@ -69,14 +69,11 @@
 [![](https://visitcount.itsvg.in/api?id=IngridAkeida&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-I have a degree in business. In my professional journey, I had several experiences in the administrative area. 
+Even though my background is in administration, I've found my passion as a Front-End Developer. I love working on visually appealing websites and meeting tight deadlines. I'm known for my attention to detail and organization skills. As a team player, I'm dedicated to making projects successful. With expertise in HTML, CSS, and JavaScript, I'm ready to create outstanding digital experiences 
 
 **Currently:**
 
-Today in career transition despite having a great experience in business I found myself in the Tech :star: world.
-
 📘 I'm a student at Hyper Island.<br>🔭 I’m working as a freelance.<br>🌱 I’m currently learning React and TypeScript.<br>👯 I'm looking to collaborate on any project, as my main goal is always to learn 💓.<br>⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both 😉.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ingrid-sanches/) 
