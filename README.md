@@ -73,7 +73,9 @@ Even though my background is in administration, I've found my passion as a Front
 
 **Currently:**
 
-📘 I'm a student at Hyper Island.<br>🔭 I’m working as a freelance.<br>🌱 I’m currently learning React and TypeScript.<br>👯 I'm looking to collaborate on any project, as my main goal is always to learn 💓.<br>⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both 😉.
+📘 I'm a student at Hyper Island.<br> 
+<!--🔭 I’m working as a freelance.<br>-->
+🌱 I’m currently learning React and TypeScript.<br>👯 I'm looking to collaborate on any project, as my main goal is always to learn 💓.<br>⚡ Fun fact: I love cats and horror movies, so my projects always have easter eggs related to both 😉.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ingrid-sanches/) 
