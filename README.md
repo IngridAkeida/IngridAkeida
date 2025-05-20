@@ -41,7 +41,7 @@ I craft experiences using tools like:
 ---
 
 ### 📚 More information? Take a look!
- * [Portfolio](https://your-portfolio-link.com)
+ * [Portfolio](https://portfolio-ingridsanches.netlify.app/) - Work in progress - but feel free to take a look 😍 
 
 ---
 
