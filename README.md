@@ -50,4 +50,4 @@ I craft experiences using tools like:
 
 ---
 
-_✨ "Code is like magic—except you get to create your own spells."_  
+_✨ "Code is like magic - except you get to create your own spells."_  
